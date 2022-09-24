@@ -142,7 +142,7 @@ $ docker-compose --file docker-compose.dev.yml --project-name mindmap-management
 
 If successful, you can browse to the start page of the new React App, which will look like below:
 
-![React App Screen Shot](react_app_screen_shot.png)
+![react_app_screen_shot](https://user-images.githubusercontent.com/1499433/192101180-9290a0a2-c1bf-4eef-b332-43b413bd1dc6.png)
 
 http://localhost:8080
 
