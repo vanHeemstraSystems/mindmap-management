@@ -112,7 +112,7 @@ $ docker-compose --file docker-compose.prod.yml --project-name mindmap-managemen
 
 If successful, browse to http://localhost (***note***: 80 is the default port for HTTP, and therefore not required to be added to the hostname) to see the production version of the app.
 
-![React App Screen Shot](react_app_screen_shot.png)
+![react_app_screen_shot](https://user-images.githubusercontent.com/1499433/192101180-9290a0a2-c1bf-4eef-b332-43b413bd1dc6.png)
 
 http://localhost:80 (you can leave the port number out, as 80 is the default)
 
