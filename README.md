@@ -1,2 +1,0 @@
-# mindmap-management
-Mindmap Management
